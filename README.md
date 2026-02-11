@@ -18,7 +18,7 @@ This is a simple web application for learning English words with translation int
 - jQuery
 
 ## Preview
-![English Learning App](https://ibb.co/QjvD5c2j.png)
+![English Learning App](https://i.ibb.co/QjvD5c2j/english.png)
 
 ## Author
 Anna Lebedenko
